@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Virtual Try-On Studio",
+  "description": "An application where users can upload a photo of themselves and an article of clothing, and Gemini AI generates an image of them wearing the item. It features a virtual dressing room to store generated outfits and manage a wardrobe of clothing.",
+  "requestFramePermissions": []
+}
